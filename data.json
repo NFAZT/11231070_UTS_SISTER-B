@@ -1,0 +1,9 @@
+[
+  {
+    "topic": "Warna",
+    "event_id": "Biru",
+    "timestamp": "2026-01-01T10:00:00",
+    "source": "test",
+    "payload": {}
+  }
+]
